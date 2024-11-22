@@ -5,13 +5,4 @@ second line of song
 5th line of song
 6th line of song
 
-demo git gui 
-demo git qui 2
-
-1234567
-additional update
-
-
-Git revert
-Git revert 2 
---------------------------
+branch 1
