@@ -5,11 +5,8 @@ second line of song
 5th line of song
 6th line of song
 
-branch 1
-
-branch 2nd step
-
-commit to feature
+new lines added to master
+new lines added to master
 
 
 
